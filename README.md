@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kusiek03
 - 👀 I’m interested in programming and sport :))
-- 🌱 I’m currently learning Html
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
